@@ -11,7 +11,7 @@ public class arreglo_ordenado {
 		//ESTOS LOS GUARDAREMOS EN UNA TABLA DE TAMAÑO 10 LEER UN NUMERO N 
 		//E INSERTARLO EN EL LUGAR ADECUADO PARA QUE LA TABLA CONTINUE ORDENADO 
 		//CREAMOS EL ARREGLO DE 10 ELEMENTOS
-		 
+		  
 		int arreglo[] = new int[10];
 		boolean creciente = true;//los numeros deben esta ordenado al menos que se demuestren lo contrario
 		int numero,sitio_numero=0,j=0;
