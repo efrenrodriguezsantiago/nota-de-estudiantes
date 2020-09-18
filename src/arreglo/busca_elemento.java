@@ -8,7 +8,7 @@ public class busca_elemento {
 		Scanner entrada = new Scanner(System.in);
 		// LEER 10 ENTEROS ORDENADOS CRECIENTEMENTE 
 		//LEER N Y BUSCAR EN LA TABLA 
-		//SE DEBE MOSTRAR LA POSICION EN UE SE ENCUENTRA 
+		//SE DEBE MOSTRAR LA POSICION EN QUE SE ENCUENTRA 
 		//SI NO ESTA INDICARLO CON UN MENSAJE
 		int arreglo [],numero;
 		
